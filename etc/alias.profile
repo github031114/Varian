@@ -1,0 +1,10 @@
+#path commonds
+alias cdetc="cd $PJHOME/etc"
+alias cdsrc="cd $PJHOME/src"
+alias cdinc="cd $PJHOME/include"
+alias cdbin="cd $PJHOME/bin"
+alias cdlib="cd $PJHOME/lib"
+alias cdlog="cd $PJHOME/log"
+alias cddbs="cd $PJHOME/dbs"
+alias cdmak="cd $PJHOME/mak"
+alias cdsbin="cd $PJHOME/sbin"
